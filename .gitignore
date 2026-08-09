@@ -1,0 +1,5 @@
+node_modules/
+data/gl-data.json
+data/gl-data.json.tmp
+data/uploads/
+.env
